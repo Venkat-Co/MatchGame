@@ -1,0 +1,16 @@
+.image-list-item-container {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.item-img {
+  height: 100px;
+  width: 100px;
+}
+.img-btn {
+  background-color: transparent;
+  border-width: 0px;
+  height: 100px;
+  width: 100px;
+}
